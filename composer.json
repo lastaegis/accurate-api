@@ -1,0 +1,20 @@
+{
+    "name": "sawala/accurate-api",
+    "description": "Accurate API Helper",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"\\Accurate": "/src"}
+    },
+    "support": {
+        "email": "ibnu@sawala.tech"
+    },
+    "authors": [
+        {
+            "name": "Ibnu Aulia Nugraha Alihaq",
+            "email": "ibnu@sawala.tech"
+        }
+    ],
+    "require": {}
+}
